@@ -19,3 +19,7 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=VishnuPothan&show_icons=true" alt="VishnuPothan" /></p> 
  <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <img align="center" src="https://github.com/VishnuPothan/VishnuPothan/blob/main/extras/packman.gif?raw=true" width="180"></p>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VishnuPothan&layout=compact&theme=radical" />
+  </a>
