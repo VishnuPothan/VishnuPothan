@@ -18,4 +18,4 @@
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=VishnuPothan&show_icons=true" alt="VishnuPothan" /></p> 
  <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img align="center" src="https://github.com/VishnuPothan/VishnuPothan/blob/master/extras/mario.gif" width="180"></p>
+  <img align="center" src="https://github.com/VishnuPothan/VishnuPothan/blob/master/extras/Main.gif" width="180"></p>
