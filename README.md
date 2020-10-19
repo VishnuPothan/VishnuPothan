@@ -35,3 +35,8 @@
 
 </p>
 
+[website]: https://vishnu-pothan.herokuapp.com/
+[twitter]: https://twitter.com/vishnu_pothan
+[instagram]: https://www.instagram.com/visnu_pothan/
+[linkedin]: https://www.linkedin.com/in/vishnu-pothan/
+[medium]: https://medium.com/@vishnupothan2
