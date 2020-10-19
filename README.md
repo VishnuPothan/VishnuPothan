@@ -13,8 +13,6 @@
 - 👨‍💻 &nbsp; All of my projects are available here.
 - 📫 &nbsp; How to reach me **vishnupothan2@gmail.com**
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
  ---
 
 <a href="https://github.com/VishnuPothan">
