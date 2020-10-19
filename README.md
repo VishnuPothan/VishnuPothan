@@ -5,22 +5,22 @@
   <a href="mailto:vishnupothan2@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>
 </p>
 
-<p align="left">
-  
-- 🌱 I’m currently learning Flutter and Dart
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👨‍💻 All of my projects are available here
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Computer Science and Engineering.
+- 🌱 &nbsp; Learning more about Flutter, Android development and Artificial Intelligence.
+- 👨‍💻 &nbsp; All of my projects are available here.
+- 📫 &nbsp; How to reach me **vishnupothan2@gmail.com**
 
-- 💬 Ask me about Java, Android, javascript
-
-- 📫 How to reach me **vishnupothan2@gmail.com**
-</p>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
  ---
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=VishnuPothan&show_icons=true" alt="VishnuPothan">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuPothan&layout=compact&show_icons=true" />
+<a href="https://github.com/VishnuPothan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VishnuPothan&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuPothan&theme=buefy&layout=compact" />
+</a>
   
 ---
 
@@ -34,10 +34,4 @@
 [<img align="left" alt="VishnuPothan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 </p>
-<br/>
-
-
----
-
- <img align="center" src="https://github.com/VishnuPothan/VishnuPothan/blob/main/extras/packman.gif?raw=true" width="180"></p>
 
