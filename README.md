@@ -7,7 +7,7 @@
 
 <p align="left">
   
-- 🌱 I’m currently learning many things
+- 🌱 I’m currently learning Flutter and Dart
 
 - 👨‍💻 All of my projects are available here
 
@@ -16,12 +16,8 @@
 - 📫 How to reach me **vishnupothan2@gmail.com**
 </p>
 
- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=VishnuPothan&show_icons=true" alt="VishnuPothan">
-</p> 
 
-  <p> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuPothan&layout=compact&show_icons=true" />
- </p> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuPothan&layout=compact&show_icons=true" />
 
  <img align="center" src="https://github.com/VishnuPothan/VishnuPothan/blob/main/extras/packman.gif?raw=true" width="180"></p>
