@@ -23,6 +23,11 @@
 </a>
   
 ---
+<h2>🏆 Github Profile Trophy</h2></a>
+
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=VishnuPothan&column=7"/>
+
+---
 
 <p align="center">
 
