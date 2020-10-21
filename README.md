@@ -13,17 +13,12 @@
 - 👨‍💻 &nbsp; All of my projects are available here.
 - 📫 &nbsp; How to reach me **vishnupothan2@gmail.com**
 
- ---
+---
 
 <a href="https://github.com/VishnuPothan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VishnuPothan&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuPothan&theme=buefy&layout=compact" />
 </a>
-  
----
-<h2>🏆 Github Profile Trophy</h2></a>
-
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=VishnuPothan&column=7"/>
 
 ---
 
